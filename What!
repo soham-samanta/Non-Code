@@ -1,0 +1,87 @@
+Kubernetes Documentation
+
+Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
+
+Understand Kubernetes
+
+Learn about Kubernetes and its fundamental concepts.
+
+    What is Kubernetes?
+    Kubernetes Components
+    The Kubernetes API
+    Understanding Kubernetes Objects
+    Pods
+
+
+
+
+Try Kubernetes
+
+Follow tutorials to learn how to deploy applications in Kubernetes.
+
+    Hello Minikube
+    Walkthrough the basics
+    Stateless Example: PHP Guestbook with Redis
+    Stateful Example: Wordpress with Persistent Volumes
+
+
+
+
+Set up a K8s cluster
+
+Get Kubernetes running based on your resources and needs.
+
+    Install the kubeadm setup tool
+    Learning environment
+    Production environment
+
+
+
+
+Learn how to use Kubernetes
+
+Look up common tasks and how to perform them using a short sequence of steps.
+
+    Install kubectl on Linux
+    Install kubectl on macOS
+    Install kubectl on Windows
+    Use the Web UI Dashboard
+    Configure Access to Multiple Clusters
+    Configure a Pod to Use a ConfigMap
+
+
+
+
+Training
+
+Get certified in Kubernetes and make your cloud native projects successful!
+
+
+
+
+Look up reference information
+
+Browse terminology, command line syntax, API resource types, and setup tool documentation.
+
+    Glossary
+    Overview of kubectl
+    kubectl Cheat Sheet
+    Kubeadm
+    Overview of API
+    Feature Gates
+
+
+
+
+Contribute to the docs
+
+Anyone can contribute, whether you're new to the project or you've been around a long time.
+
+    Start contributing to K8s
+    Suggesting content improvements
+    Page content types
+    Opening a pull request
+    Documenting a feature for a release
+    Translating the docs
+    Participating in SIG Docs
+    Viewing Site Analytics
